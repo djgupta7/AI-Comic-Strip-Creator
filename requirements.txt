@@ -1,0 +1,11 @@
+openai
+diffusers
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+gradio
+spacy
+nltk
+pandas
