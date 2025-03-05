@@ -37,11 +37,11 @@ The AI Comic Strip Creator generates engaging comic panels by combining dialogue
    pip install -r requirements.txt
    ```
 
-4. **Configure API Keys**
+4. **Configure API **
 
    Open `app.py` and replace the placeholders with your actual API keys:
    - Hugging Face token
-   - Gemini API key
+   - gpt2
 
 ## Usage
 
