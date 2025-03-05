@@ -55,7 +55,7 @@ After starting, Gradio will generate a public URL (if `share=True` is set) which
 
 ## Project Structure
 
-- **app.py:**  
+- **strong_model.py/weak_model.py:**  
   Contains the main application code, including functions for dialogue and image generation and the Gradio UI.
 - **requirements.txt:**  
   Lists all the required Python packages.
